@@ -3,7 +3,7 @@
     "publisher": "Rafael-Avalos",
     "displayName": "Light Colors Theme",
     "description": "Light colors theme is a colorful, eye - pleasing theme with cheerful and stylish colors ",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.47.0"
     },

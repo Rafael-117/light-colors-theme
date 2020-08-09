@@ -1,8 +1,11 @@
 # Light Colors Theme
 
-Hola, Este es mi primer tema, espero que te guste
-
-![](https://raw.githubusercontent.com/Rafael-117/light-colors-theme/master/colors.png?token=APEJXMYA64OO4QKY3QZ6WS27FZRUU)
+hey, try this new theme, if you like lihgts themes I'm sure you will love it
 
 
-![](https://raw.githubusercontent.com/Rafael-117/light-colors-theme/master/code-snapshot.png?token=APEJXM6VDOSLPVPNLJF5GBS7FZRSO)
+
+these are some of the colors used
+![](https://raw.githubusercontent.com/Rafael-117/extension/master/colors.png)
+
+
+![](https://raw.githubusercontent.com/Rafael-117/extension/master/code-snapshot.png)
